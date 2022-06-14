@@ -14,7 +14,7 @@ from pygame.sprite import Sprite
 
 # Global Constants
 VERSION     = "0.01"
-NAME        = "Asteroids " + VERSION
+NAME        = "Asteroidler " + VERSION
 SCREEN_X    = 1200
 SCREEN_Y    = 600
 FPS         = 60
